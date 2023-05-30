@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Prateek Wadhwani, a Data Science & Analytics Enthusiast, currenlty pursuing a Computer Science Graduate Degree at North Carolina State University. I have 3 years of full-time work experience as a Data Engieer at Citi and completed by Bachelors in Computer Science from NITK, India in 2018.
+I'm Prateek Wadhwani, a Data Science & Analytics Enthusiast, currently working as a Data Scientist at LexisNexis and have recently completed my Computer Science Graduate Degree at North Carolina State University. I have 3 years of full-time work experience as a Data Engieer at Citi and completed by Bachelors in Computer Science from NITK, India in 2018.
 
 **languages and tools:**<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
